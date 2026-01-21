@@ -8,3 +8,4 @@ This project demonstrates basic DevOps concepts including:
 This is a learning-focused DevOps simulation project.
 
 CI trigger test
+# CD test
