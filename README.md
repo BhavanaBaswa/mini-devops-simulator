@@ -6,3 +6,5 @@ This project demonstrates basic DevOps concepts including:
 - Automated deployment scripts
 
 This is a learning-focused DevOps simulation project.
+
+CI trigger test
